@@ -1,4 +1,4 @@
-package Task_12;
+package Task_6.Intergace;
 
 public interface Car {
     void go();

@@ -1,4 +1,4 @@
-package Task_13;
+package Task_6.Abstraction;
 
 public class HPNotebook extends HP {
     @Override

@@ -1,4 +1,4 @@
-package Task_6;
+package Task_6.Abstract;
 
 public class Abstract {
     public static void main(String[] args) {

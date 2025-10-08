@@ -1,4 +1,4 @@
-package Task_12;
+package Task_6.Intergace;
 
 public class Honda implements Car{
     @Override

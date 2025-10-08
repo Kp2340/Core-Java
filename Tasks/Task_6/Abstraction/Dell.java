@@ -1,4 +1,4 @@
-package Task_13;
+package Task_6.Abstraction;
 
 public abstract class Dell implements TouchScreenLaptop{
     @Override

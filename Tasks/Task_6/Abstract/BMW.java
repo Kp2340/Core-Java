@@ -1,4 +1,4 @@
-package Task_6;
+package Task_6.Abstract;
 
 public abstract class BMW {
     abstract void series();
