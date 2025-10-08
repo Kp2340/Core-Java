@@ -15,8 +15,8 @@ public class Abstract {
 }
 //Output:
 //This is Series 5
-//This is a BMW Series 5 car.
+//This is a BMW Series 5 Car.
 //Series 5 cars are known for their sporty performance and agility.
 //This is Series 3
-//This is a BMW Series 3 car.
+//This is a BMW Series 3 Car.
 //Series 3 cars are known for their sporty performance and agility.

@@ -9,6 +9,6 @@ public class Series5 extends BMW {
         System.out.println("Series 5 cars are known for their sporty performance and agility.");
     }
     void displayInfo() {
-        System.out.println("This is a BMW Series 5 car.");
+        System.out.println("This is a BMW Series 5 Car.");
     }
 }
