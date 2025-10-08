@@ -1,4 +1,4 @@
-package Task_11;
+package Task_6;
 
 public abstract class BMW {
     abstract void series();
