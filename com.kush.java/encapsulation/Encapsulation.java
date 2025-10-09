@@ -1,4 +1,4 @@
-package Task_8;
+package encapsulation;
 
 public class Encapsulation {
 }
