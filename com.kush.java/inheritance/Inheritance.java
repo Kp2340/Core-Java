@@ -1,4 +1,4 @@
-package Task_5;
+package inheritance;
 
 public class Inheritance {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Task_5;
+package inheritance;
 
 // Example of Hierarchical Inheritance (Another child of Animal)
 public class Cat extends Animal {

@@ -1,4 +1,4 @@
-package Task_5;
+package inheritance;
 
 // Example of Multi-Level Inheritance
 public class GermanShepherd extends Dog {

@@ -1,4 +1,4 @@
-package Task_5;
+package inheritance;
 
 // Example of Single Inheritance
 public class Dog extends Animal {
