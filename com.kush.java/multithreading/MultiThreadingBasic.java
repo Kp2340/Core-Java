@@ -1,10 +1,10 @@
 package multithreading;
 
-public class MultiThread1 extends Thread {
+public class MultiThreadingBasic extends Thread {
     public static void main(String[] args) {
-        MultiThread1 thread1 = new MultiThread1();
-        MultiThread1 thread2 = new MultiThread1();
-        MultiThread1 thread3 = new MultiThread1();
+        MultiThreadingBasic thread1 = new MultiThreadingBasic();
+        MultiThreadingBasic thread2 = new MultiThreadingBasic();
+        MultiThreadingBasic thread3 = new MultiThreadingBasic();
         thread1.start();
         thread2.start();
         thread3.start();
@@ -20,7 +20,9 @@ public class MultiThread1 extends Thread {
             }
         }
     }
+
 }
+
 //Output:
 //Thread Thread-1 is running
 //Thread Thread-0 is running
