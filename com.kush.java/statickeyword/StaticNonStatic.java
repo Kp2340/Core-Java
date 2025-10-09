@@ -1,4 +1,4 @@
-package Task_2;
+package statickeyword;
 
 public class StaticNonStatic {
     public static void main(String[] args) {
