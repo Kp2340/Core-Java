@@ -1,4 +1,4 @@
-package Task_4;
+package operators;
 
 public class Operators {
     public static void main(String[] args) {
