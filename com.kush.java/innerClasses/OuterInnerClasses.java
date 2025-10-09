@@ -20,9 +20,9 @@ public class OuterInnerClasses {
         }
 
         private void f2() {
-            System.out.println(x);
-            System.out.println(this.y);
-            System.out.println();
+            System.out.println("Outer class x: "+ x);
+            System.out.println("Outer class y: "+ OuterInnerClasses.this.y);
+            System.out.println("Inner class y: "+ y);
         }
     }
 
@@ -31,12 +31,12 @@ public class OuterInnerClasses {
         outer.f1();
         OuterInnerClasses.Inner inner = outer.new Inner(30);
         inner.f2();
-        System.out.println(inner.y);
+        System.out.println("Inner class y: "+ inner.y);
     }
 }
 //Output:
 //Outer Classes non static method
-//50
-//80
-//
-//30
+//Outer class x: 50
+//Inner class y: 80
+//Outer class y: 30
+//Inner class y: 30
