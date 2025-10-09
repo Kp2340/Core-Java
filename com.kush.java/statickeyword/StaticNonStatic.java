@@ -3,6 +3,7 @@ package statickeyword;
 public class StaticNonStatic {
     public static void main(String[] args) {
         System.out.println("Initial static variable value: " + staticVariable);
+
         staticMethod(); // Call static method
         StaticNonStatic.staticMethod(); // Call again to see the increment
         StaticNonStatic obj1 = new StaticNonStatic();
