@@ -99,6 +99,7 @@ public class MultithreadingAdvance {
         scheduler.shutdown();
     }
 }
+//Output:
 //Thread Creation
 //MyThread running: Thread-0
 //MyRunnable running: Thread-1
