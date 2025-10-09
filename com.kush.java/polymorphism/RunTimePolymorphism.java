@@ -1,4 +1,4 @@
-package polimorphism;
+package polymorphism;
 
 import inheritance.Animal;
 import inheritance.Cat;

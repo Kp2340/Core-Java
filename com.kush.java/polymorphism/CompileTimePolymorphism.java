@@ -1,4 +1,4 @@
-package polimorphism;
+package polymorphism;
 
 import static statickeyword.staticImport.kp;
 
