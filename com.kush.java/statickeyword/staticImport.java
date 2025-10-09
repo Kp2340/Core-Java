@@ -1,4 +1,4 @@
-package Task_10;
+package statickeyword;
 
 import java.util.Scanner;
 import static java.lang.System.out;
