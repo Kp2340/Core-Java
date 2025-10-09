@@ -1,4 +1,4 @@
-package Task_12;
+package assertkeyword;
 
 public class Assertion {
     public static void main(String[] args) {
