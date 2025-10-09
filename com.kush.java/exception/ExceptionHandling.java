@@ -3,7 +3,7 @@ package exception;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-public class ExceptionDemo {
+public class ExceptionHandling {
     public static void main(String[] args) {
         try {
             int[] array = new int[5];
@@ -54,8 +54,6 @@ public class ExceptionDemo {
             throwCustomException();
         } catch (Exception e) {
             System.out.println("Custom Exception: " + e.getMessage());
-        } finally {
-            System.out.println("Finally block after custom exception");
         }
     }
 
