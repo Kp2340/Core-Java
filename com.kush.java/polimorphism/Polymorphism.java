@@ -1,4 +1,4 @@
-package Task_7;
+package polimorphism;
 
 public class Polymorphism {
 }
