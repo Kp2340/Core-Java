@@ -1,4 +1,4 @@
-package Task_6.Abstraction;
+package abstraction.Abstraction;
 
 public class AbstractionAssignment {
     public static void main(String[] args) {

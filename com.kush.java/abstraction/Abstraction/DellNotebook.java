@@ -1,4 +1,4 @@
-package Task_6.Abstraction;
+package abstraction.Abstraction;
 
 public class DellNotebook extends Dell{
     @Override

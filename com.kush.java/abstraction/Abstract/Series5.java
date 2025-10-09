@@ -1,4 +1,4 @@
-package Task_6.Abstract;
+package abstraction.Abstract;
 
 public class Series5 extends BMW {
     @Override

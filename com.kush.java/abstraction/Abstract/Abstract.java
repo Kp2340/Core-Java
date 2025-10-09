@@ -1,4 +1,4 @@
-package Task_6.Abstract;
+package abstraction.Abstract;
 
 public class Abstract {
     public static void main(String[] args) {

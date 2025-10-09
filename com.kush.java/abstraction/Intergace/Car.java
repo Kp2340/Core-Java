@@ -1,4 +1,4 @@
-package Task_6.Intergace;
+package abstraction.Intergace;
 
 public interface Car {
     void go();

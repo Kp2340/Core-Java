@@ -1,4 +1,4 @@
-package Task_6.Abstraction;
+package abstraction.Abstraction;
 
 public abstract class HP implements TouchScreenLaptop{
     @Override
