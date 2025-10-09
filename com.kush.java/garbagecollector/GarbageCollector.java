@@ -1,6 +1,6 @@
-package Task_1;
+package garbagecollector;
 
-public class TestGarbageCollector {
+public class GarbageCollector {
     public static void main(String[] args) {
         Runtime runtime = Runtime.getRuntime();
 
