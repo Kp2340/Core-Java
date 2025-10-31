@@ -1,5 +1,7 @@
 package operators;
 
+import static statickeyword.staticImport.kp;
+
 public class Operators {
     public static void main(String[] args) {
         unaryOperators();
@@ -11,9 +13,12 @@ public class Operators {
         ternaryOperator();
         bmiCalculator(80, 6.1);
     }
+
     public static void unaryOperators() {
         System.out.println("unaryOperators");
         int a = 10;
+        String s=new String("`==` checks references, `equals()` checks content");
+        kp(s);
         System.out.println("Initial value of a: " + a);
         System.out.println("Unary plus: " + +a); // Unary plus
         System.out.println("Unary minus: " + -a); // Unary minus
